@@ -522,7 +522,7 @@
                                 class="w-full h-20 sm:h-24 object-cover group-hover:scale-105 transition-transform duration-500">
                         </div>
                         <div class="p-2 flex flex-col flex-grow">
-                            <a href="https://script.google.com/macros/s/AKfycbyDwtyDvVezDcVRr2PMesGIPxrCTdWFwGL1aqbmPeEDdKXel-1ggh-rlF-X7tht6BJX/exec"
+                            <a href="https://script.google.com/macros/s/AKfycbxY1bU7bUY94DjtOem9RPNpx5GSRTm2Yu4Ft1y4tgW7uCnd9fpwe5BI-gqoN4Bkllr8/exec"
                                 target="_blank" rel="noopener noreferrer"
                                 class="mt-auto block text-center w-full bg-blue-600 hover:bg-blue-700 text-white text-xs sm:text-sm font-medium py-1.5 px-2 rounded-xl transition-colors">
                                 DAILY PLANNER

@@ -114,8 +114,8 @@ document.addEventListener("DOMContentLoaded", function() {
     
     const codeLinesArray = [
         '<span class="syn-punct">&lt;</span><span class="syn-tag">div</span> <span class="syn-attr">class</span>=<span class="syn-str">"developer-profile"</span><span class="syn-punct">&gt;</span>',
-        '    <span class="syn-punct">&lt;</span><span class="syn-tag">h1</span><span class="syn-punct">&gt;</span>Thanawadee (Baifern)<span class="syn-punct">&lt;/</span><span class="syn-tag">h1</span><span class="syn-punct">&gt;</span>',
-        '    <span class="syn-punct">&lt;</span><span class="syn-tag">h2</span> <span class="syn-attr">class</span>=<span class="syn-str">"role"</span><span class="syn-punct">&gt;</span>IT & Web Developer<span class="syn-punct">&lt;/</span><span class="syn-tag">h2</span><span class="syn-punct">&gt;</span>',
+        '    <span class="syn-punct">&lt;</span><span class="syn-tag">h1</span><span class="syn-punct">&gt;</span>Thanawadee Tithada (Baifern)<span class="syn-punct">&lt;/</span><span class="syn-tag">h1</span><span class="syn-punct">&gt;</span>',
+        '    <span class="syn-punct">&lt;</span><span class="syn-tag">h2</span> <span class="syn-attr">class</span>=<span class="syn-str">"role"</span><span class="syn-punct">&gt;</span>Full Stack Developer<span class="syn-punct">&lt;/</span><span class="syn-tag">h2</span><span class="syn-punct">&gt;</span>',
         '',
         '    <span class="syn-punct">&lt;</span><span class="syn-tag">ul</span> <span class="syn-attr">class</span>=<span class="syn-str">"skills"</span><span class="syn-punct">&gt;</span>',
         '        <span class="syn-punct">&lt;</span><span class="syn-tag">li</span><span class="syn-punct">&gt;</span>JavaScript<span class="syn-punct">&lt;/</span><span class="syn-tag">li</span><span class="syn-punct">&gt;</span>',
