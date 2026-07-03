@@ -511,6 +511,27 @@
                 </div>
             </div>
 
+ <div class="bg-white rounded-[24px] border border-gray-200 shadow-sm p-4 sm:p-5"
+                style=" background-color: #a9b5dfc2;border: 10px solid #a9b5dfc2;">
+                <h3 class="text-base sm:text-lg font-bold text-gray-800 text-center mb-4">Analytics Dashboard</h3>
+                <div class="flex justify-center">
+                    <div
+                        class="w-full max-w-[180px] group flex flex-col overflow-hidden rounded-[16px] bg-gray-50 hover:shadow-md transition-shadow">
+                        <div class="overflow-hidden">
+                            <img src="img-web/dashboard.png" alt="Dashboard"
+                                class="w-full h-20 sm:h-24 object-cover group-hover:scale-105 transition-transform duration-500">
+                        </div>
+                        <div class="p-2 flex flex-col flex-grow">
+                            <a href="https://thanawadeetithada.github.io/dashboard" target="_blank"
+                                rel="noopener noreferrer"
+                                class="mt-auto block text-center w-full bg-blue-600 hover:bg-blue-700 text-white text-xs sm:text-sm font-medium py-1.5 px-2 rounded-xl transition-colors">
+                                Analytics Dashboard
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
             <div class="bg-white rounded-[24px] border border-gray-200 shadow-sm p-4 sm:p-5"
                 style=" background-color: #a9b5dfc2;border: 10px solid #a9b5dfc2;">
                 <h3 class="text-base sm:text-lg font-bold text-gray-800 text-center mb-4">DAILY PLANNER</h3>
